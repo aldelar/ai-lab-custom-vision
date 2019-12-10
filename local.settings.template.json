@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=____;AccountKey=____;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "CosmosDBEndpoint": "AccountEndpoint=https://____.documents.azure.com:443/;AccountKey=____;",
+    "PREDICTION_ENDPOINT": "https://westus2.api.cognitive.microsoft.com/",
+    "PREDICTION_KEY": "____",
+    "PREDICTION_PROJECT_ID": "____",
+    "PREDICTION_PUBLISHED_NAME": "____"
+  }
+}
