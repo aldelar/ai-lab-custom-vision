@@ -1,0 +1,7 @@
+name: ai-lab-custom-vision
+dependencies:
+- pip
+- python=3.7
+- pip:
+  - azure-cognitiveservices-vision-customvision
+  - azure-functions

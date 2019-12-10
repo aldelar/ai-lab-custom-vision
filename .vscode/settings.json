@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\aldelar.NORTHAMERICA\\Miniconda3\\envs\\ai-lab\\python.exe",
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~2",
+    "debug.internalConsoleOptions": "neverOpen"
+}
